@@ -1,8 +1,10 @@
 # Clone-WhatsappWeb
-*_Um clone single page  da versão do whatsapp para web_*
 
 
-#### 1 dos projetos do curso HTML5 e CSS3: Técnicas Avançadas (Com Flexbox) - Udemy
+*_Um clone single page da versão do whatsapp para web_*
+
+
+#### 4° projeto do curso HTML5 e CSS3: Técnicas Avançadas (Com Flexbox) - Udemy (7,5 total horas)
 
 ###  Conteúdo do Curso
 
